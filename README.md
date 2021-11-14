@@ -1,5 +1,5 @@
 <h1 align="center">Hey !! I'm Maitra Khatri</h1>
-<h3 align="center">Creator at Brain and Heart<br>Also a Web developer from Ahmedabad, India</h3>
+<h3 align="center">Creator at Brain and Heart<br>Web developer from Ahmedabad, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitrakhatri&label=Profile%20views&color=0e75b6&style=flat" alt="maitrakhatri" /> </p>
 
