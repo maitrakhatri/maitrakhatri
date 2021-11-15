@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/maitrakhatri" target="blank"><img src="https://img.shields.io/twitter/follow/maitrakhatri?logo=twitter&style=for-the-badge" alt="maitrakhatri" /></a> </p>
 
-- 🔭 I’m currently working on [Auspin Healthcare Website](https://maitrakhatri.github.io/auspin-healthcare/)
-
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://maitraportfolio.netlify.app/](https://maitraportfolio.netlify.app/)
