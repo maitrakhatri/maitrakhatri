@@ -19,6 +19,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Closures in JavaScript](https://dev.to/maitrakhatri/understanding-closures-in-javascript-21pl)
+- [Understanding Lexical Scope in JavaScript](https://dev.to/maitrakhatri/understanding-lexical-scope-in-javascript-4j6o)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
