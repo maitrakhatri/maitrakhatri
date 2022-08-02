@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/maitrakhatri" target="blank"><img src="https://img.shields.io/twitter/follow/maitrakhatri?logo=twitter&style=for-the-badge" alt="maitrakhatri" /></a> </p>
 
+[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/maitrakhatri?style=for-the-badge)](https://peerlist.io/maitrakhatri)
+
 - 🔭 I’m currently working on [WatchGozo](https://github.com/maitrakhatri/WatchGozo)
 
 - 🌱 I’m currently learning **TypeScript and Testing**
