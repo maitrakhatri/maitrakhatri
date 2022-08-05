@@ -7,7 +7,7 @@
 
 [![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/maitrakhatri?style=for-the-badge)](https://peerlist.io/maitrakhatri)
 
-- 🔭 I’m currently working on [WatchGozo](https://github.com/maitrakhatri/WatchGozo)
+- 🔭 I’m currently working on [gozo Quiz](https://github.com/maitrakhatri/gozoQuiz)
 
 - 🌱 I’m currently learning **TypeScript and Testing**
 
