@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [gozo Quiz](https://github.com/maitrakhatri/gozoQuiz)
 
-- 🌱 I’m currently learning **TypeScript and Testing**
-
 - 👨‍💻 All of my Vanilla JS projects are available at [https://maitraportfolio.netlify.app/](https://maitraportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://dev.to/maitrakhatri](https://dev.to/maitrakhatri)
