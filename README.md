@@ -1,40 +1,21 @@
-<h1 align="center">Hi 👋, I'm Maitra Khatri</h1>
-<h3 align="center">Creator from Brain and Heart</h3>
+# 💫 About Me:
+🔭 I’m currently working on Fileverse<br>🌱 I’m currently learning Web3 Frontend
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maitrakhatri&label=Profile%20views&color=0e75b6&style=flat" alt="maitrakhatri" /> </p>
 
-<p align="left"> <a href="https://twitter.com/maitrakhatri" target="blank"><img src="https://img.shields.io/twitter/follow/maitrakhatri?logo=twitter&style=for-the-badge" alt="maitrakhatri" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maitrakhartri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maitrakhatri) 
 
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/maitrakhatri?style=for-the-badge)](https://peerlist.io/maitrakhatri)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maitrakhatri&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=maitrakhatri&theme=slateorange&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maitrakhatri&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on [gozo Quiz](https://github.com/maitrakhatri/gozoQuiz)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=maitrakhatri&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
-- 👨‍💻 All of my Vanilla JS projects are available at [https://maitraportfolio.netlify.app/](https://maitraportfolio.netlify.app/)
+---
+[![](https://visitcount.itsvg.in/api?id=maitrakhatri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📝 I regularly write articles on [https://dev.to/maitrakhatri](https://dev.to/maitrakhatri)
-
-- 💬 Ask me about **React JS**
-
-- 📫 How to reach me **maitrakhatri@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Closures in JavaScript](https://dev.to/maitrakhatri/understanding-closures-in-javascript-21pl)
-- [Understanding Lexical Scope in JavaScript](https://dev.to/maitrakhatri/understanding-lexical-scope-in-javascript-4j6o)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/maitrakhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maitrakhatri" height="30" width="40" /></a>
-<a href="https://twitter.com/maitrakhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maitrakhatri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maitrakhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitrakhatri" height="30" width="40" /></a>
-<a href="https://codesandbox.com/u/maitrakhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="maitrakhatri" height="30" width="40" /></a>
-<a href="https://instagram.com/maitrakhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maitrakhatri" height="30" width="40" /></a>
-<a href="https://hashnode.com/@maitrakhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@maitrakhatri" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maitrakhatri&show_icons=true&locale=en&layout=compact" alt="maitrakhatri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maitrakhatri&show_icons=true&locale=en" alt="maitrakhatri" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitrakhatri&" alt="maitrakhatri" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
